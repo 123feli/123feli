@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil
 
-<!--
-**123feli/123feli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e felipe
 
-Here are some ideas to get you started:
+estou estudando na [alura](https:www.alura.com.br)
+estou me desenvolvendo na linguagem javaScript
+utilizo esse espaco para minha organizacao e comparatilhamento dos meu projetos sesenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entrar em contato comigo
+
+
+00001106096769SP@al.educacao.sp.gov.br
+@schonbergfelipe03
+
+![](https://media1.tenor.com/m/kkTB0fmKUEsAAAAC/happy-monday-monday-morning.gif)
